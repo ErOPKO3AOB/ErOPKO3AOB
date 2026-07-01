@@ -47,7 +47,7 @@ I build high‑performance, multiplayer, and cross‑platform games for **Mobile
 
 - 📧 kozlov.egor.dev@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/egor-kozlov-748a7641a)  
-- 🐦 [GitHub](https://github.com/your-username)
+- 🐦 [GitHub](https://github.com/ErOPKO3AOB)
 
 ---
 
