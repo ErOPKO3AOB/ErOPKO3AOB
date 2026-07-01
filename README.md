@@ -29,10 +29,9 @@ I build high‑performance, multiplayer, and cross‑platform games for **Mobile
 
 | Project | Role | Period | Key Contributions |
 |---------|------|--------|-------------------|
-| **Warhammer 40,000: Tacticus**<br/>*(Snowprint Studios – Sweden)* | Unity Developer | 04/2022 – Present | • Refactored combat with ECS/DOTS (25→45 FPS)<br/>• Addressables reduced load time by 20%<br/>• Migrated UI to UI Toolkit<br/>• Introduced VContainer + SOLID |
-| **Scavengers**<br/>*(Midwinter/Improbable – Canada/UK)* | Unity Developer | 02/2020 – 04/2022 | • Migrated UNet → Netcode for GameObjects (disconnects -35%)<br/>• Built AI with DOTS + Netcode for Entities<br/>• Optimized shaders with ShaderGraph & URP |
-| **The Cycle: Frontier**<br/>*(Yager Development – Germany)* | Unity Developer | 08/2018 – 02/2020 | • Ported PC game to mobile (HDRP→URP, -40% draw calls)<br/>• Integrated New Input System<br/>• Added WebGL support |
-| **Rusted Warfare**<br/>*(Corroding Games – Australia)* | Unity Developer | 02/2015 – 08/2018 | • Built multiplayer with Photon & Mirror (5k+ concurrent)<br/>• Optimized memory (GC spikes -68%)<br/>• Mentored interns |
+| **Warhammer 40,000: Tacticus**<br/>*(Snowprint Studios – Sweden)* | Unity Developer | 04/2022 – Present | • Refactored combat with ECS/DOTS (25→45 FPS)<br/>• Addressables reduced load time by 20.43%<br/>• Introduced VContainer + SOLID (test coverage 55%→72%)<br/>• Built Editor Scripting tools for map generation |
+| **Scavengers**<br/>*(Midwinter Entertainment – Canada/UK)* | Unity Developer | 02/2020 – 04/2022 | • Migrated UNet → Netcode for GameObjects (disconnects -24%, sync +16.43%)<br/>• Built AI with DOTS + Netcode for Entities (60-player PvPvE)<br/>• Led code reviews for 5 juniors |
+| **The Cycle: Frontier**<br/>*(Yager Development – Germany)* | Unity Developer | 08/2018 – 02/2020 | • Integrated New Input System (input issues -74.8%)<br/>• Extended NavMesh Agents for alien AI (accuracy 18.4%→21.6%)<br/>• Added WebGL support (QA setup -3 days)<br/>• Optimized VFX Graph (visual score 4.0→4.5) |
 
 ---
 
