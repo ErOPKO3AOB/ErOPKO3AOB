@@ -12,7 +12,7 @@ I build high‑performance, multiplayer, and cross‑platform games for **Mobile
 `ShaderGraph` · `VFXGraph` · `URP` · `HDRP` · `UI Toolkit` · `ProBuilder`
 
 **Networking**  
-`Netcode for GameObjects` · `Netcode for Entities` · `Mirror` · `Photon` · `FishNet` · `UNet (legacy)`
+`Netcode for GameObjects` · `Netcode for Entities` · `Mirror` · `Photon` · `UNet (legacy)`
 
 **Asset Management & Input**  
 `Addressables` · `New Input System` · `Asset Bundles`
@@ -47,7 +47,7 @@ I build high‑performance, multiplayer, and cross‑platform games for **Mobile
 ## 📫 Contacts
 
 - 📧 kozlov.egor.dev@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/egor-kozlov-748a7641a)  
 - 🐦 [GitHub](https://github.com/your-username)
 
 ---
@@ -56,7 +56,7 @@ I build high‑performance, multiplayer, and cross‑platform games for **Mobile
 
 - Unity DOTS & ECS optimizations  
 - Netcode for Entities in large-scale multiplayer  
-- Procedural generation & AI behavior trees
+- Procedural generation & AI pathfinding behaviours
 
 ---
 
