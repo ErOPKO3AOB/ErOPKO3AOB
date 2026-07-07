@@ -38,8 +38,8 @@ I build high‑performance, multiplayer, and cross‑platform games for **Mobile
 ## 🎓 Education
 
 **Bauman Moscow State Technical University**  
-- *Bachelor’s in Computer Science* – 2011–2015  
-- *Master’s in Software Engineering* – 2015–2017
+- *Bachelor’s in Computer Science* – 2017–2021  
+- *Master’s in Software Engineering* – 2021–2023
 
 ---
 
